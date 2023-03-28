@@ -13,9 +13,9 @@ export default function Navbar(){
             <img src={logo} alt="The Crafty Creations Club" id="craft-logo"/>
             <ul id="nav-links">
                 <Link to="/"><li>Home</li></Link>
-                <Link><li>Products</li></Link>
+                <Link to="/products"><li>Products</li></Link>
                 <Link><li>Contact</li></Link>
-                <Link><li>Facebook</li></Link>
+                <Link to ="https://www.facebook.com/profile.php?id=100084930500589" target="_blank"><li>Facebook</li></Link>
             </ul>
         </div>
     )

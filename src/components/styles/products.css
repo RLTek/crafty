@@ -1,0 +1,20 @@
+#products-page{
+    text-align: center;
+}
+
+.product-list-image{
+    max-width: 15em;
+    max-height: 15em;
+    border-radius: 1em;
+}
+
+#products-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    justify-content: center;
+}
+
+.product-descript{
+    max-width: 16em;
+}
