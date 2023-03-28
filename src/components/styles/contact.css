@@ -1,0 +1,14 @@
+#contact-page{
+    text-align: center;
+}
+
+#contact-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+textarea{
+    width: 25em;
+    height: 15em;
+}

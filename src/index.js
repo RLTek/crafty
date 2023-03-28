@@ -5,6 +5,7 @@ import './index.css';
 
 import Home from './components/Home';
 import Products from './components/products';
+import Contact from './components/contact';
 
 
 import reportWebVitals from './reportWebVitals';
@@ -18,6 +19,7 @@ root.render(
     <Routes>
       <Route path="/" element={<Home />}></Route>
       <Route path="/products" element={<Products />}></Route>
+      <Route path="/contact" element={<Contact />}></Route>
     </Routes>
   </BrowserRouter>
 );
