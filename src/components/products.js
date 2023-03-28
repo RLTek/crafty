@@ -16,7 +16,7 @@ export default function Products(){
         },
         {
             name: "Sensory Bins",
-            description: "Our sensory bins are senational! Perfect for toddlers developing their motor skills or anyone with sensory processing disorders.",
+            description: "Our sensory bins are sensational! Perfect for toddlers developing their motor skills or anyone with sensory processing disorders.",
             imageUrl: sensoryKit
         }
     ]
